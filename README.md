@@ -1,2 +1,2 @@
 # cart-coding
-this resporsitory for coding for cart app
+this resporsitory for coding for cart by using python oops concepts
